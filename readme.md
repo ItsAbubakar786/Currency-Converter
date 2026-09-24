@@ -1,14 +1,89 @@
 # 💱 Currency Converter
 
-A responsive and user-friendly **Currency Converter Web Application** built using HTML, CSS, and JavaScript.
-
-The application uses a live currency exchange rate API to convert amounts between different currencies and displays the corresponding country flags.
+A responsive **Currency Converter Web App** built with HTML, CSS, and JavaScript. It uses a live exchange rate API to convert currencies and displays the corresponding country flags.
 
 ---
 
 ## 🚀 Live Demo
 
-🔗 **Live Demo:** soon!
+**Coming Soon**
+
+---
+
+## ✨ Features
+
+- 💱 Live currency conversion
+- 🌐 Multiple currency support
+- 🇺🇸 Country flags
+- 🔄 Currency swap
+- 💰 Quick amount buttons
+- 🌙 Dark / ☀️ Light Mode
+- 📱 Responsive design
+- ⚡ Loading state
+- ⚠️ Basic API error handling
+
+---
+
+## 🛠️ Tech Stack
+
+- **HTML5**
+- **CSS3**
+- **JavaScript (ES6+)**
+- **Fetch API**
+- **Currency API**
+- **Font Awesome**
+- **FlagsAPI**
+
+---
+
+## 🔌 API
+
+Exchange rates are provided by **Currency API by Fawaz Ahmed**.
+
+🔗 https://github.com/fawazahmed0/exchange-api
+
+Example:
+
+```text
+USD → INR
+```
+
+---
+
+## 📂 Project Structure
+
+```text
+Currency-Converter/
+│
+├── index.html
+├── style.css
+├── script.js
+├── preview.png
+└── README.md
+```
+
+---
+
+## 🧠 What I Learned
+
+- Working with APIs and JSON
+- `fetch()` and `async/await`
+- DOM manipulation
+- Event listeners
+- Dynamic UI updates
+- Responsive CSS
+- Dark / Light theme
+- Basic error handling
+
+---
+
+## 🔮 Future Improvements
+
+- 📊 Exchange rate charts
+- 🕐 Conversion history
+- ⭐ Favorite currencies
+- 📋 Copy conversion result
+- 💾 Save user preferences
 
 ---
 
@@ -18,44 +93,16 @@ The application uses a live currency exchange rate API to convert amounts betwee
 
 ---
 
-## ✨ Features
+## 👨‍💻 Author
 
-- 💱 Convert between multiple currencies
-- 🌐 Live exchange rates using an API
-- 🇺🇸 Country flags for supported currencies
-- 🔄 Swap From and To currencies
-- 💰 Quick amount buttons
-- 🌙 Dark Mode / ☀️ Light Mode
-- 📱 Responsive design for mobile, tablet and desktop
-- ⚡ Loading state while fetching exchange rates
-- ⚠️ Basic error handling for invalid API responses
-- 🎨 Clean and modern user interface
+**Abubakar**  
+B.Sc. Information Technology Student
+
+- 💼 LinkedIn: Add your profile
+- 🐙 GitHub: Add your profile
 
 ---
 
-## 🛠️ Technologies Used
+⭐ **If you like this project, consider giving it a star!**
 
-- **HTML5** – Structure of the application
-- **CSS3** – Styling, responsive design and dark/light theme
-- **JavaScript (ES6+)** – Application logic and API integration
-- **Fetch API** – Fetching live exchange rates
-- **Currency API** – Exchange rate data
-- **Font Awesome** – Icons
-- **FlagsAPI** – Country flag images
-
----
-
-## 🔌 API
-
-This project uses the following currency exchange rate API:
-
-**Currency API by Fawaz Ahmed**
-
-https://github.com/fawazahmed0/exchange-api
-
-The API provides currency exchange rates in JSON format.
-
-Example:
-
-```text
-USD → INR
+**Built with HTML, CSS & JavaScript ❤️**
