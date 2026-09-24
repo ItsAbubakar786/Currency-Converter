@@ -6,7 +6,7 @@ A responsive **Currency Converter Web App** built with HTML, CSS, and JavaScript
 
 ## 🚀 Live Demo
 
-**Coming Soon**
+**[Check it out here](https://itsabubakar786.github.io/Currency-Converter/)**
 
 ---
 
